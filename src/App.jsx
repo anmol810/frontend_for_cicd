@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API = "http://13.63.239.125:3000/todos"; // change if needed
+const API = "http://13.60.171.133:3000/todos"; // change if needed
 
 function App() {
   const [todos, setTodos] = useState([]);
